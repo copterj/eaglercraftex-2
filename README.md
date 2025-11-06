@@ -1,3 +1,7 @@
+# NOTE: THIS REPOSITORY IS DEPRECATED
+
+We are working on a new eaglercraftex, so stay tuned!
+
 ## Legal Notice 
 
 This repository does **not** contain any copyrighted material, proprietary assets, or content that infringes upon the intellectual property rights of any third party.
