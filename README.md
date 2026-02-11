@@ -10,7 +10,7 @@ All files included are either:
 
 In accordance with [17 U.S. Code § 512](https://www.law.cornell.edu/uscode/text/17/512), if you believe any content in this repository has been included in error and infringes your copyright, **please contact the repository maintainer directly before submitting a DMCA takedown notice**.  
 
-# eaglercraftex
+# eaglercraftex-2
 
 ### EaglercraftX extended by yours truly
 
