@@ -1,4 +1,11 @@
 
+ eaglercraftex-2 Developer
+ ~~~~~~~~~~~~~~~~~~~~~~~
+
+ copterj
+
+  - Creator of eaglercraftex-2
+
  eaglercraftex Developer
  ~~~~~~~~~~~~~~~~~~~~~~~
 
